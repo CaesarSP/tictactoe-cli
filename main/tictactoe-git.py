@@ -8,7 +8,7 @@ def start():
 
     if x in ("0", "1", "2"):
         print("That's too low")
-        start()
+        start() 
 
     try:
         x = int(x)
