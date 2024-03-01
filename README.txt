@@ -1,4 +1,5 @@
 This is a simple Tic-Tac-Toe CLI game made in Python.
+Check the releases tab for binaries. Built using PyInstaller.
 
 Instructions:
 
